@@ -9,7 +9,6 @@ Il permet une meilleure compatibilité avec les environnements récents et corri
 ### 🔧 Fonctionnalités :
 - Correction de compatibilité pour l’environnement PS4/PS5
 - Améliorations de stabilité
-- Prise en charge de nouveaux offsets si nécessaire
 - Nettoyage du code pour une meilleure lisibilité
 
 ### 📦 Dépendances :
@@ -28,7 +27,6 @@ It improves compatibility with modern environments and fixes platform-specific i
 ### 🔧 Features:
 - Compatibility fixes for PS4/PS5 environments
 - Stability improvements
-- Support for new offsets if needed
 - Code cleanup for better readability
 
 ### 📦 Dependencies:
