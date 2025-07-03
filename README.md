@@ -15,7 +15,7 @@ Il permet une meilleure compatibilité avec les environnements récents et corri
 - Suivre la structure et les instructions d’installation du projet d’origine : [Apparition GSC](https://github.com/CF4x99/Apparition/tree/main)
 
 ### ✅ Statut :
-Ce correctif est en cours de développement et testé activement sur firmware 9.00 (PS4) et environnement Debug/TestKit (PS5).
+Ce correctif est en cours de développement et testé activement sur firmware 9.00 (PS4) et environnement Debug/TestKit (PS4).
 
 ---
 
@@ -33,4 +33,4 @@ It improves compatibility with modern environments and fixes platform-specific i
 - Follow the structure and setup instructions from the original project: [Apparition GSC](https://github.com/CF4x99/Apparition/tree/main)
 
 ### ✅ Status:
-This patch is currently in development and tested on firmware 9.00 (PS4) and Debug/TestKit environment (PS5).
+This patch is currently in development and tested on firmware 9.00 (PS4) and Debug/TestKit environment (PS4).
