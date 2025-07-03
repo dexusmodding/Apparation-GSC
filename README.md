@@ -1,2 +1,1 @@
-# Apparation-GSC
-Apparaition GSC for BO3 PS4 ! ( fixed )
+![Project Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
